@@ -1,0 +1,13 @@
+.fa-star {
+    color: black;
+}
+/* .fa-star:mouseover {
+    color: yellow;
+    box-shadow: 20% grey;
+} */
+#box {
+    border: 1px solid black;
+    background-color: red;
+    height:20px;
+    width: 20px;
+}
