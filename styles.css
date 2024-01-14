@@ -1,5 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 .fa-star {
     color: black;
+}
+
+/* Task 2 */
+#popover-content {
+    display: none;
+    position: relative;
+    padding: 4px;
+    text-align: center;
+    border-radius: 5px;
+    left: 250px;
+    bottom: 47px;
+    height: 20px;
+    width: 50px;
+    background-color: black;
+}
+.arrow-up {
+    top: 28px;
+    position: absolute;
+    border-bottom: 5px solid black;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
 }
 /* .fa-star:mouseover {
     color: yellow;
